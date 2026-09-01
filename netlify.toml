@@ -1,0 +1,3 @@
+[build]
+  command = "echo 'No build needed: static placeholder page. See README.md for how to build/run the real Angular frontend and .NET backend locally.'"
+  publish = "public"
